@@ -3,3 +3,5 @@
 icns/favicon.icns
 icns/imgs.iconset/*
 icns/dist/*
+/node_modules
+/**/node_modules
